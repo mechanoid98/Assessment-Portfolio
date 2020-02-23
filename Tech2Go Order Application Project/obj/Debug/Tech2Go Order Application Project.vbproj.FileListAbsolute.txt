@@ -1,0 +1,76 @@
+E:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\bin\Debug\Tech2Go Order Application Project.exe.config
+E:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.LoginForm.resources
+E:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.MainMenu.resources
+E:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.Resources.resources
+E:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go Order Application Project.vbproj.GenerateResource.Cache
+E:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\bin\Debug\Tech2Go Order Application Project.exe
+E:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\bin\Debug\Tech2Go Order Application Project.pdb
+E:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\bin\Debug\Tech2Go Order Application Project.xml
+E:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go Order Application Project.exe
+E:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go Order Application Project.xml
+E:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go Order Application Project.pdb
+E:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.SplashScreen.resources
+E:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.OrderForm.resources
+F:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\bin\Debug\Tech2Go Order Application Project.exe.config
+F:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go Order Application Project.exe
+F:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go Order Application Project.xml
+F:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go Order Application Project.pdb
+F:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.LoginForm.resources
+F:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.MainMenu.resources
+F:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.Resources.resources
+F:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.OrderForm.resources
+F:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.SplashScreen.resources
+F:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go Order Application Project.vbproj.GenerateResource.Cache
+F:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\bin\Debug\Tech2Go Order Application Project.exe
+F:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\bin\Debug\Tech2Go Order Application Project.pdb
+F:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\bin\Debug\Tech2Go Order Application Project.xml
+F:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.ManagerMenu.resources
+F:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.NewEmployeeForm.resources
+E:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.ManagerMenu.resources
+E:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.NewEmployeeForm.resources
+D:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\bin\Debug\Tech2Go Order Application Project.exe.config
+D:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go Order Application Project.exe
+D:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go Order Application Project.xml
+D:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go Order Application Project.pdb
+D:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\bin\Debug\Tech2Go Order Application Project.exe
+D:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\bin\Debug\Tech2Go Order Application Project.pdb
+D:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\bin\Debug\Tech2Go Order Application Project.xml
+D:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.LoginForm.resources
+D:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.MainMenu.resources
+D:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.ManagerMenu.resources
+D:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.Resources.resources
+D:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.NewEmployeeForm.resources
+D:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.OrderForm.resources
+D:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.SplashScreen.resources
+D:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go Order Application Project.vbproj.GenerateResource.Cache
+E:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.NewDriverForm.resources
+F:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go Order Application Project.vbprojResolveAssemblyReference.cache
+F:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.NewDriverForm.resources
+F:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.NewProductForm.resources
+E:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.NewProductForm.resources
+E:\Computing\3.8\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\bin\Debug\Tech2Go Order Application Project.exe.config
+E:\Computing\3.8\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go Order Application Project.exe
+E:\Computing\3.8\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go Order Application Project.xml
+E:\Computing\3.8\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go Order Application Project.pdb
+E:\Computing\3.8\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\bin\Debug\Tech2Go Order Application Project.exe
+E:\Computing\3.8\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\bin\Debug\Tech2Go Order Application Project.pdb
+E:\Computing\3.8\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\bin\Debug\Tech2Go Order Application Project.xml
+E:\Computing\3.8\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.LoginForm.resources
+E:\Computing\3.8\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.MainMenu.resources
+E:\Computing\3.8\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.ManagerMenu.resources
+E:\Computing\3.8\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.Resources.resources
+E:\Computing\3.8\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.NewDriverForm.resources
+E:\Computing\3.8\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.NewEmployeeForm.resources
+E:\Computing\3.8\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.NewProductForm.resources
+E:\Computing\3.8\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.OrderForm.resources
+E:\Computing\3.8\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.SplashScreen.resources
+E:\Computing\3.8\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go Order Application Project.vbproj.GenerateResource.Cache
+E:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go Order Application Project.vbprojResolveAssemblyReference.cache
+F:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.DriverMenu.resources
+E:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.DriverMenu.resources
+F:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.ChangeOffers.resources
+E:\Computing\CG4\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go_Order_Application_Project.ChangeOffers.resources
+C:\Users\user1\Documents\Tech2Go Order Application Project\Tech2Go Order Application Project\bin\Debug\Tech2Go Order Application Project.exe.config
+C:\Users\user1\Documents\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go Order Application Project.exe
+C:\Users\user1\Documents\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go Order Application Project.xml
+C:\Users\user1\Documents\Tech2Go Order Application Project\Tech2Go Order Application Project\obj\Debug\Tech2Go Order Application Project.pdb
